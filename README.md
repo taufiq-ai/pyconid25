@@ -2,7 +2,7 @@
 
 This repository contains all resources for my PyCon Indonesia 2025 talk:
 
-** "No Cloud, No Problem: Turn Your Phone Into a Remote Linux Server for Python Apps."**
+**"No Cloud, No Problem: Turn Your Phone Into a Remote Linux Server for Python Apps."**
 
 ---
 
