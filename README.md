@@ -19,7 +19,7 @@ This repository contains all resources for my PyCon Indonesia 2025 talk:
 - **Custom Termux Scripts:**  
   (Will be added soon)
 
-- **Demo Video:**
+- **Demo Video:**  
   (Will be added soon)  
 
 ---
@@ -48,9 +48,9 @@ The QR code shown during the presentation links directly to this repository for 
 NLP & Backend Engineer @ LaLoka Labs  
 Python & AI/ML Community Organizer (Bangladesh)
 
-- **LinkedIn:** https://www.linkedin.com/in/taufiq-tusar   
+- **LinkedIn:** https://www.linkedin.com/in/taufiq-khan-tusar   
 - **Website:** 
-https://taufiq-ai.gitHub.io  
+https://taufiq-ai.github.io  
 ---
 
 Thank you for attending the session!  
