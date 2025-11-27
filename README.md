@@ -1,4 +1,4 @@
-# 📱 PyConID 2025 — Pocket Server Talk Resources
+# 📱 PyConID 2025 Pocket Server Talk Resources
 
 This repository contains all resources for my PyCon Indonesia 2025 talk:
 
