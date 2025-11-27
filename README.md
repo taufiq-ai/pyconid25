@@ -19,6 +19,9 @@ This repository contains all resources for my PyCon Indonesia 2025 talk:
 - **Custom Termux Scripts:**  
   (Will be added soon)
 
+- **Demo Video:**
+  (Will be added soon)  
+
 ---
 
 ## 📚 Articles & References
@@ -29,6 +32,8 @@ Here are the supporting articles included in this talk:
 
 2. **Deploy Flask App to the Pocket Server (Part 2)**  
    https://taufiq.hashnode.dev/deploy-flask-application-to-your-pocket-server
+
+These articles contains the step by step implementation as well. 
 
 ---
 
@@ -43,9 +48,9 @@ The QR code shown during the presentation links directly to this repository for 
 NLP & Backend Engineer @ LaLoka Labs  
 Python & AI/ML Community Organizer (Bangladesh)
 
-- **LinkedIn:** https://www.linkedin.com/in/taufiq-tusar  
-- **GitHub:** https://github.com/taufiq-ai  
-- **Website:** https://taufiq-ai GitHub.io  
+- **LinkedIn:** https://www.linkedin.com/in/taufiq-tusar   
+- **Website:** 
+https://taufiq-ai.gitHub.io  
 ---
 
 Thank you for attending the session!  
