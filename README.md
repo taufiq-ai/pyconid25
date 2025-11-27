@@ -8,7 +8,7 @@ This repository contains all resources for my PyCon Indonesia 2025 talk:
 
 ## 🎤 What’s Inside
 - **Slides (Canva):**  
-  https://www.canva.com/design/DAGWsS0ygWY/-DCOj1aLK7wdVXDDHklF7A/edit?utm_content=DAGWsS0ygWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  https://www.canva.com/design/DAG5lWDF8BE/cQ5MCspL1HKHyk7I8am2Yg/view?utm_content=DAG5lWDF8BE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f99344069
 
 - **Talk Abstract (PaperCall):**  
   https://www.papercall.io/speakers/taufiq/speaker_talks/316742-no-cloud-no-problem-turn-your-phone-into-a-remote-linux-server-for-python-apps
