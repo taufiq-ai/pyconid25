@@ -31,7 +31,7 @@ Here are the supporting articles included in this talk:
    https://taufiq.hashnode.dev/turn-android-device-into-remote-linux-server-in-30-minutes
 
 2. **Deploy Flask App to the Pocket Server (Part 2)**  
-   https://taufiq.hashnode.dev/deploy-flask-application-to-your-pocket-server
+   https://taufiq.hashnode.dev/deploy-flask-app-on-your-pocket-server-in-15-minutes
 
 These articles contains the step by step implementation as well. 
 
