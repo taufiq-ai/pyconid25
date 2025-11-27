@@ -1,19 +1,53 @@
-# pyconid25
+# 📱 PyConID 2025 — Pocket Server Talk Resources
 
-### Slide
-Public View: https://www.canva.com/design/DAG5lWDF8BE/cQ5MCspL1HKHyk7I8am2Yg/view?utm_content=DAG5lWDF8BE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f99344069
+This repository contains all resources for my PyCon Indonesia 2025 talk:
 
-Comment: https://www.canva.com/design/DAG5lWDF8BE/Ar8DjkXHEWdyFJTrz0839w/edit?utm_content=DAG5lWDF8BE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+** "No Cloud, No Problem 
+## Turn Your Phone Into a Remote Linux Server for Python Apps."**
 
+---
 
-### Proposal public link
-https://www.papercall.io/speakers/taufiq/speaker_talks/316742-no-cloud-no-problem-turn-your-phone-into-a-remote-linux-server-for-python-apps
+## 🎤 What’s Inside
+- **Slides (Canva):**  
+  https://www.canva.com/design/DAGWsS0ygWY/-DCOj1aLK7wdVXDDHklF7A/edit?utm_content=DAGWsS0ygWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-### Related Articles
-Series: https://taufiq.hashnode.dev/series/deployment-fun
-Phone to Server: https://taufiq-ai.github.io/blog/turn-android-device-into-remote-linux-server-in-30-minutes.html
-Deployment: https://taufiq.hashnode.dev/deploy-flask-app-on-your-pocket-server-in-15-minutes
+- **Talk Abstract (PaperCall):**  
+  https://www.papercall.io/speakers/taufiq/speaker_talks/316742-no-cloud-no-problem-turn-your-phone-into-a-remote-linux-server-for-python-apps
 
+- **Architecture Diagram:**  
+  Included in the slides
 
-### Connect
-linkedin.com/in/taufiq-khan-tusar
+- **Custom Termux Scripts:**  
+  (Will be added soon)
+
+---
+
+## 📚 Articles & References
+Here are the supporting articles included in this talk:
+
+1. **Turn Android Device into a Remote Linux Server in 30 Minutes**  
+   https://taufiq.hashnode.dev/turn-android-device-into-remote-linux-server-in-30-minutes
+
+2. **Deploy Flask App to the Pocket Server (Part 2)**  
+   https://taufiq.hashnode.dev/deploy-flask-application-to-your-pocket-server
+
+---
+
+## 🔗 QR Code Used in the Talk
+The QR code shown during the presentation links directly to this repository for quick access to slides, scripts, and instructions.
+
+---
+
+## 🙋‍♂️ About the Speaker
+
+**Md. Taufiqul Haque Khan (Taufiq)**  
+NLP & Backend Engineer @ LaLoka Labs  
+Python & AI/ML Community Organizer (Bangladesh)
+
+- **LinkedIn:** https://www.linkedin.com/in/taufiq-tusar  
+- **GitHub:** https://github.com/taufiq-ai  
+- **Website:** https://taufiq-ai GitHub.io  
+---
+
+Thank you for attending the session!  
+Feel free to explore or share these resources.
