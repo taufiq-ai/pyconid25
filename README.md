@@ -13,6 +13,9 @@ This repository contains all resources for my PyCon Indonesia 2025 talk:
 - **Talk Abstract (PaperCall):**  
   https://www.papercall.io/speakers/taufiq/speaker_talks/316742-no-cloud-no-problem-turn-your-phone-into-a-remote-linux-server-for-python-apps
 
+- **Speaker Script**:  
+  https://docs.google.com/document/d/e/2PACX-1vSyC-J-YEvvA9o24dv1hjJQanVwy27DhT4DRHpkn03l0R5ypgqZDxrNsAjFsEanko8XDq9S8sjFA0MC/pub
+  
 - **Architecture Diagram:**  
   Included in the slides
 
@@ -52,6 +55,9 @@ Python & AI/ML Community Organizer (Bangladesh)
 - **Website:** 
 https://taufiq-ai.github.io  
 ---
+
+## 🙏 Acknowledgement
+A heartfelt grattitude to my employer [LaLoka Labs LLC](https://lalokalabs.co/en/) for providing the travel grant for the talk. 
 
 Thank you for attending the session!  
 Feel free to explore or share these resources.
