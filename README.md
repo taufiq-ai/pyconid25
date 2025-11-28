@@ -57,7 +57,10 @@ https://taufiq-ai.github.io
 ---
 
 ## 🙏 Acknowledgement
+
 A heartfelt grattitude to my employer [LaLoka Labs LLC](https://lalokalabs.co/en/) for providing the travel grant for the talk. 
+
+---
 
 Thank you for attending the session!  
 Feel free to explore or share these resources.
